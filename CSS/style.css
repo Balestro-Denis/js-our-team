@@ -1,3 +1,12 @@
 body {
   font-family: "Fredoka", sans-serif;
 }
+h1 {
+  color: rgb(222, 63, 118);
+}
+.d-flex {
+  background-color: black;
+}
+.ms-3 {
+  color: white;
+}
